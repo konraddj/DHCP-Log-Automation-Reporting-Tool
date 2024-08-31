@@ -1,4 +1,4 @@
-# Infrastructure as code Assignment 1 #
+# DHCP Log Automation Reporting Tool #
 ## Project Scope ##
 
 The goal of this project is to write a simple log file process for DHCP logs from a production server Ubuntu based on client networks including CCTV.
