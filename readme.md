@@ -13,7 +13,7 @@ The assumption of the project is to write the code clearly and cost-effectively 
 #
 The generated list with interesting nodes was saved in a CSV file, keeping in mind a readable style, without duplicating data.
 #
-## Project composition ##
+## Project Composition ##
 The project comprises four categories:
 1.  Structure
 2.  Documentation
@@ -24,8 +24,8 @@ The project should fill these categories with the best effort as intended.
 #
 ![img.png](device.png)
 #
-## The structure of Project files ##
-A batch file was utilized to set up this structure, ensuring consistency and ease of navigation. The main executable file, "main.py", serves as the central script that orchestrates the execution of the project. It imports various functions and packages from the source directory, enabling modularity and reusability of code. The testing suite is designed to focus on the functions and code snippets directly related to the project's objectives, ensuring that each component operates correctly and integrates seamlessly. These tests help validate the functionality and reliability of the implemented solutions.
+## The Structure of Project Files ##
+A batch file automated the creation of an organized directory structure to efficiently manage the project's files. The main executable file, "main.py", serves as the central script that orchestrates the execution of the project. It imports various functions and packages from the source directory, enabling modularity and reusability of code. The testing suite is designed to focus on the functions and code snippets directly related to the project's objectives, ensuring that each component operates correctly and integrates seamlessly. These tests help validate the functionality and reliability of the implemented solutions.
 #
 >More detailed information about the project can be found in the Documentation directory.
 #
