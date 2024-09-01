@@ -25,7 +25,7 @@ The project should fill these categories with the best effort as intended.
 ![img.png](device.png)
 #
 ## The structure of Project files ##
-An important aspect of the project was to create a directory structure suitable for the files created in this work. "main.py" as the main executable, imports functions and packages from the source directory. The tests focused on the functions or code snippets related to the project.
+A batch file was utilized to set up this structure, ensuring consistency and ease of navigation. The main executable file, "main.py", serves as the central script that orchestrates the execution of the project. It imports various functions and packages from the source directory, enabling modularity and reusability of code. The testing suite is designed to focus on the functions and code snippets directly related to the project's objectives, ensuring that each component operates correctly and integrates seamlessly. These tests help validate the functionality and reliability of the implemented solutions.
 #
 >More detailed information about the project can be found in the Documentation directory.
 #
